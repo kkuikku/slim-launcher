@@ -1,0 +1,30 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ],
+    "KPlugin": {
+        "Id": "io.github.kkuikku.slimlauncher",
+        "Name": "Slim Launcher",
+        "Description": "A slimmer Kickoff: no category sidebar; tabs for Favorites, All Apps, Recent Apps, Recent Files and a chosen category; System Settings and power menu buttons",
+        "Icon": "start-here-kde",
+        "Category": "Application Launchers",
+        "License": "GPL-2.0-or-later",
+        "Version": "1.7.0",
+        "Authors": [
+            {
+                "Name": "kkuikku",
+                "Webpage": "https://github.com/kkuikku"
+            },
+            {
+                "Name": "Martin Graesslin (Kickoff)"
+            },
+            {
+                "Name": "Mikel Johnson (Kickoff)"
+            }
+        ],
+        "Website": "https://github.com/kkuikku/slim-launcher",
+        "BugReportUrl": "https://github.com/kkuikku/slim-launcher/issues"
+    }
+}
